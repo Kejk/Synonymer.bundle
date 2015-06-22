@@ -1,0 +1,9 @@
+{
+    "name": "Synonymer", 
+    "displayName": "Synonymer",
+    "description": "Hitta synonymer via synonymer.se",
+    "examples": ["syn snygg", "synonym till snygg"],
+    "categories": ["Language"],
+    "creator_name": "Kejk",
+    "creator_url": "http://kejk.se"
+}
